@@ -1,0 +1,4 @@
+﻿language: csharp
+solution: travis-mono-test.sln
+mono: none
+dotnet: 2.1.502
