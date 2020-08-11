@@ -1,3 +1,4 @@
 ﻿language: csharp
+solution: pipedream-travis-ci-trigger-build.sln
 mono: none
 dotnet: 2.1.502
