@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "pipedream-travis-ci-trigger-build/1.0.0": {
+        "runtime": {
+          "pipedream-travis-ci-trigger-build.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pipedream-travis-ci-trigger-build/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

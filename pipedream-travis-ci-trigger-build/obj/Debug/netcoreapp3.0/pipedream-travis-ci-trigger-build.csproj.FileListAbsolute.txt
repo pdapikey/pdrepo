@@ -1,0 +1,11 @@
+C:\Users\Administrador\Desktop\usa-mxmiller-22672913\code\travis-ci-repo\pipedream-travis-ci-trigger-build\bin\Debug\netcoreapp3.0\pipedream-travis-ci-trigger-build.exe
+C:\Users\Administrador\Desktop\usa-mxmiller-22672913\code\travis-ci-repo\pipedream-travis-ci-trigger-build\bin\Debug\netcoreapp3.0\pipedream-travis-ci-trigger-build.deps.json
+C:\Users\Administrador\Desktop\usa-mxmiller-22672913\code\travis-ci-repo\pipedream-travis-ci-trigger-build\bin\Debug\netcoreapp3.0\pipedream-travis-ci-trigger-build.runtimeconfig.json
+C:\Users\Administrador\Desktop\usa-mxmiller-22672913\code\travis-ci-repo\pipedream-travis-ci-trigger-build\bin\Debug\netcoreapp3.0\pipedream-travis-ci-trigger-build.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\usa-mxmiller-22672913\code\travis-ci-repo\pipedream-travis-ci-trigger-build\bin\Debug\netcoreapp3.0\pipedream-travis-ci-trigger-build.dll
+C:\Users\Administrador\Desktop\usa-mxmiller-22672913\code\travis-ci-repo\pipedream-travis-ci-trigger-build\bin\Debug\netcoreapp3.0\pipedream-travis-ci-trigger-build.pdb
+C:\Users\Administrador\Desktop\usa-mxmiller-22672913\code\travis-ci-repo\pipedream-travis-ci-trigger-build\obj\Debug\netcoreapp3.0\pipedream-travis-ci-trigger-build.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\usa-mxmiller-22672913\code\travis-ci-repo\pipedream-travis-ci-trigger-build\obj\Debug\netcoreapp3.0\pipedream-travis-ci-trigger-build.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\usa-mxmiller-22672913\code\travis-ci-repo\pipedream-travis-ci-trigger-build\obj\Debug\netcoreapp3.0\pipedream-travis-ci-trigger-build.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\usa-mxmiller-22672913\code\travis-ci-repo\pipedream-travis-ci-trigger-build\obj\Debug\netcoreapp3.0\pipedream-travis-ci-trigger-build.dll
+C:\Users\Administrador\Desktop\usa-mxmiller-22672913\code\travis-ci-repo\pipedream-travis-ci-trigger-build\obj\Debug\netcoreapp3.0\pipedream-travis-ci-trigger-build.pdb
